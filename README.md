@@ -1,7 +1,7 @@
 <!-- BANNER / FUNDO -->
 
 <p align="center">
-  <img src="assets/space-banner.jpg" alt="space banner" width="100%">
+  <img src="galaxy-banner.jpg" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Leonardo | Front-End Developer</h1>
