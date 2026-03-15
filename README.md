@@ -1,46 +1,88 @@
+<!-- BANNER / FUNDO -->
+
+<p align="center">
+  <img src="assets/space-banner.jpg" alt="space banner" width="100%">
+</p>
+
 <h1 align="center">👨‍💻 Leonardo | Front-End Developer</h1>
 
 <p align="center">
 🚀 Apaixonado por desenvolvimento web <br>
-☕ Criador do projeto Cafena <br>
-💻 HTML | CSS | JavaScript
+☕ Criador do projeto <b>Cafena</b> <br>
+💻 HTML • CSS • JavaScript
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor focado em criar interfaces modernas e experiências web interativas.
+Sou um desenvolvedor focado em criar **interfaces modernas** e **experiências web interativas**.
 
-Atualmente estou trabalhando em projetos como:
+Atualmente estou trabalhando em:
 
-- ☕ Cafena – Website de cafeteria
-- 🌐 Projetos de Front-End
-- 🚀 Aprimorando JavaScript
+- ☕ **Cafena – Website de cafeteria**
+- 🌐 Projetos de **Front-End**
+- 🚀 Aprimorando **JavaScript**
 
 ---
 
 ## 🛠️ Tecnologias
 
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👾 Pacman Contribution Graph
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph.svg">
+</picture>
 
 </p>
 
 ---
 
-## 🐍 Snake comendo meus commits
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
