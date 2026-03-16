@@ -1,106 +1,75 @@
-<!-- BANNER / FUNDO -->
-
-<p align="center">
-  <img src="galaxy-banner.jpg" width="100%">
-</p>
-
-<h1 align="center">👨‍💻 Leonardo | Front-End Developer</h1>
-
-<p align="center">
-🚀 Apaixonado por desenvolvimento web <br>
-☕ Criador do projeto <b>Cafena</b> <br>
-💻 HTML • CSS • JavaScript
-</p>
-
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor focado em criar **interfaces modernas** e **experiências web interativas**.
-
-Atualmente estou trabalhando em:
-
-- ☕ **Cafena – Website de cafeteria**
-- 🌐 Projetos de **Front-End**
-- 🚀 Aprimorando **JavaScript**
-
----
-
-## 🛠️ Tecnologias
-
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
----
+###
 
-## 🐍 Contribuições
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"/>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo"/>
+</div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leonardo360-arch.leonardo360-arch"/>
+</div>
+
+###
+
+<h1 align="center">Olá! Meu Nome é Leonardo Marson Coral👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+<p align="left">
+Sou estudante de Desenvolvimento de Software Multiplataforma da Fatec - Araras, apaixonado por tecnologia e desenvolvimento de software.<br><br>
+
+- 👨‍💻 Atualmente estou desenvolvendo projetos pessoais focados em web, sistemas e automação.<br>
+- 📚 Atualmente estou aprendendo Java, C++, HTML, CSS, JavaScript e conceitos de engenharia de software.<br>
+- ⚡ No meu tempo livre gosto de estudar programação, criar projetos e explorar novas ideias com inteligência artificial.
 </p>
 
----
+###
 
-## 👾 Pacman Contribution Graph
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
-<p align="center">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/pacman-contribution-graph.svg">
-</picture>
+###
 
-</p>
+<h3 align="left">🔥 Estatísticas</h3>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=leonardo360-arch&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="grafico de sequencia"/>
+</div>
 
-## 📊 Estatísticas do GitHub
+###
 
-<p align="center">
+<h3 align="left">🐍 Snake de contribuições</h3>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardo360-arch&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo360-arch&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Projetos
-
-🔗 **Cafena Website**  
-https://leonardo360-arch.github.io/Cafena/
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/leonardo360-arch
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/snake.svg" alt="Snake animation"/>
+</div>
