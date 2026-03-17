@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/leonardo-marson-coral-226b27253" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo">
+## 🌐 Contato
+
+<a href="https://www.linkedin.com/in/leonardo-marson-coral-226b27253">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge">
 </a>
+
+## 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/leonardo360-arch/output/snake.svg" />
 </div>
 
 ###
@@ -67,9 +73,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=leonardo360-arch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/leonardo360-arch/output/snake.svg" alt="Snake animation" />
 
 ###
