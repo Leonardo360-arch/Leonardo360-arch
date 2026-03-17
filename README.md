@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leonardo360-arch/output/snake.svg" alt="Snake animation" />
 
 ###
