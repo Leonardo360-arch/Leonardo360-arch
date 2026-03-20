@@ -56,3 +56,9 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec - Araras.<
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=leonardo360-arch&theme=dark" height="200"/>
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/leonardo360-arch/leonardo360-arch/output/snake.svg" alt="Snake animation" />
+
+---
