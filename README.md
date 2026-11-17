@@ -1,80 +1,78 @@
 <div align="center">
 
-# Leonardo Marson Coral
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:164E63,100:2563EB&text=Leonardo%20Marson%20Coral&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=60&descSize=16" alt="Leonardo Marson Coral — Backend e Full Stack" width="100%" />
 
-**Desenvolvimento de Software Multiplataforma · Backend & Full Stack**
+[![Texto animado](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%7C+PHP+%7C+JavaScript+%7C+SQL;Construindo+sistemas+e+solu%C3%A7%C3%B5es+web;Aprendizado+cont%C3%ADnuo+%2B+engenharia+de+software)](https://git.io/typing-svg)
 
-Construindo aplicações web e sistemas de gestão com atenção à modelagem de dados, segurança e manutenção.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marson-coral-226b27253)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Em_desenvolvimento-334155?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/Leonardo360-arch/meu-portifolio-)
-[![Projetos](https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo360-arch?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marson-coral-226b27253)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ver_projeto-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Leonardo360-arch/meu-portifolio-)
+[![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo360-arch?tab=repositories)
 
 </div>
 
----
+## Sobre mim
 
-### Sobre mim
-
-Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec Araras**, com vivência em suporte técnico no ambiente educacional. Desenvolvo projetos acadêmicos e pessoais para aprofundar conhecimentos em aplicações web, backend e engenharia de software.
+Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec Araras** e tenho vivência em **suporte técnico no ambiente educacional**. Desenvolvo projetos pessoais e acadêmicos com foco em aplicações web, backend, modelagem de dados e boas práticas de engenharia de software.
 
 - **Objetivo:** oportunidades de estágio e desenvolvimento de software, especialmente backend e full stack.
-- **Interesses técnicos:** APIs, modelagem relacional, autenticação, testes e arquitetura de aplicações.
-- **Abordagem:** requisitos claros, soluções proporcionais ao problema, documentação e versionamento.
+- **Interesses:** APIs, bancos de dados relacionais, autenticação, testes, segurança e arquitetura.
+- **Princípios:** requisitos claros, código legível, documentação e uso justificado de SOLID e design patterns.
 - **Localização:** Araras, São Paulo, Brasil.
 
-### Tecnologias e ferramentas
+## Tecnologias
 
 <div align="center">
 
-**Linguagens e desenvolvimento**
+**Desenvolvimento**
 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,cpp,python&theme=dark" alt="Java, PHP, JavaScript, HTML, CSS, C++ e Python" />
 
 **Dados e infraestrutura**
 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github&theme=dark" alt="MySQL, PostgreSQL, Docker, Linux, Git e GitHub" />
 
-**Fluxo de trabalho**
+**Ferramentas**
 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://skillicons.dev/icons?i=idea,vscode,figma&theme=dark" alt="IntelliJ IDEA, Visual Studio Code e Figma" />
 
 </div>
 
-<sub>Ferramentas utilizadas em diferentes níveis de experiência; algumas ainda estão em estudo.</sub>
+> Tecnologias utilizadas em diferentes níveis de experiência. Algumas ainda estão em estudo.
 
-### Projetos selecionados
+## Projetos em destaque
 
-| Projeto | Desafio técnico | Stack e situação |
+| Projeto | Destaque técnico | Situação |
 | :--- | :--- | :--- |
-| **[Lume Estúdio](https://github.com/Leonardo360-arch/lume-estudio)** | Agenda de ensaios, área do cliente e entrega de álbuns privados com controle de acesso e prazo. | PHP, MySQL, JavaScript e Docker · projeto demonstrativo |
-| **[Design Patterns — Factory Method](https://github.com/Leonardo360-arch/Design-Patterns)** | Separação da criação de objetos do fluxo de entregas, com exemplo executável e manual de testes. | Java 17+ · estudo |
-| **[Observer — SAA](https://github.com/Leonardo360-arch/Design-Pattern-Observer)** | Notificação simulada de responsáveis e coordenação após registro de ausência. | Java Swing · demonstração sem e-mail real |
-| **[VittaPet Store](https://github.com/Leonardo360-arch/Vittapet)** | E-commerce pet com catálogo, carrinho, pedidos e painel administrativo no escopo. | PHP, MySQL e JavaScript · em desenvolvimento, não publicado |
-| **[Portfólio pessoal](https://github.com/Leonardo360-arch/meu-portifolio-)** | Interface responsiva com cartões de projetos e tecnologias interativas. | HTML, CSS e JavaScript · em evolução |
+| **[Lume Estúdio](https://github.com/Leonardo360-arch/lume-estudio)** | Agenda, área do cliente, álbuns privados e controle de acesso com PHP, MySQL e Docker | Projeto demonstrativo |
+| **[Design Patterns — Factory Method](https://github.com/Leonardo360-arch/Design-Patterns)** | Criação de objetos desacoplada do fluxo de entregas em Java | Projeto de estudo |
+| **[Observer — SAA](https://github.com/Leonardo360-arch/Design-Pattern-Observer)** | Notificações simuladas para responsáveis e coordenação com Java Swing | Demonstração didática |
+| **[VittaPet Store](https://github.com/Leonardo360-arch/Vittapet)** | Loja pet com catálogo, carrinho e gestão de pedidos no escopo | Em desenvolvimento; não publicada |
+| **[Meu portfólio](https://github.com/Leonardo360-arch/meu-portifolio-)** | Cards interativos e tecnologias arrastáveis em HTML, CSS e JavaScript | Em evolução |
 
-> Cada repositório apresenta seu próprio escopo e estágio de implementação. Recursos planejados não devem ser confundidos com funcionalidades validadas.
-
-### Engenharia e aprendizado
-
-Tenho interesse em **orientação a objetos, SOLID, design patterns, testes, segurança e documentação técnica**. Procuro aplicar cada prática quando ela resolve uma necessidade concreta, sem adicionar complexidade apenas por convenção.
-
-### Atividade no GitHub
+## Atividade e contribuições
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo360-arch&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Leonardo360-arch&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas públicas de atividade do GitHub" />
+
+<img src="https://streak-stats.demolab.com?user=Leonardo360-arch&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo360-arch&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade pública no GitHub" width="100%" />
 
 </div>
 
-<sub>O gráfico é fornecido por um serviço externo e pode ficar indisponível sem afetar o conteúdo do perfil. A atividade não substitui a avaliação do código e da documentação.</sub>
+> Os indicadores são fornecidos por serviços externos e podem ficar temporariamente indisponíveis. Eles não substituem a avaliação do código, dos testes e da documentação.
 
----
+## Como desenvolvo
+
+Gosto de começar pelo problema e pelas regras de negócio, estruturar responsabilidades, modelar os dados e validar o comportamento. Procuro manter as soluções simples e sustentáveis; **design patterns são ferramentas, não objetivos por si só**.
 
 <div align="center">
 
-**Vamos conversar sobre tecnologia e desenvolvimento?**
+**Tecnologia com propósito. Aprendizado constante. Projetos que resolvem problemas.**
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-marson-coral-226b27253) · [Projetos no GitHub](https://github.com/Leonardo360-arch?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/leonardo-marson-coral-226b27253) · [Portfólio](https://github.com/Leonardo360-arch/meu-portifolio-) · [Todos os projetos](https://github.com/Leonardo360-arch?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:164E63,100:2563EB" alt="" width="100%" />
 
 </div>
